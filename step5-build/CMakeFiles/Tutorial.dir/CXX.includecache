@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5/MathFunctions/MathFunctions.h
+
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5/TutorialConfig.h
+MathFunctions.h
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5/MathFunctions.h
+
+TutorialConfig.h
+

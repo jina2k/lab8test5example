@@ -1,0 +1,16 @@
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/install/strip.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/install/local.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/install.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/list_install_components.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/edit_cache.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/test.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/CMakeFiles/Tutorial.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/install/strip.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/install.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/list_install_components.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/test.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/install/local.dir
+/mnt/c/users/anthony/downloads/spring2022/oss/cmake/help/guide/tutorial/step5-build/MathFunctions/CMakeFiles/MathFunctions.dir
